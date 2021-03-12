@@ -161,7 +161,7 @@ $(function() {
     });
     
     // Blog Home owlCarousel
-    $('.bauen-blog .owl-carousel').owlCarousel({
+    $('.RULA-blog .owl-carousel').owlCarousel({
         loop: true
         , margin: 30
         , mouseDrag: true

@@ -1684,12 +1684,12 @@ button.mfp-arrow {
 
 
 /* ======= Blog style ======= */
-.bauen-blog .item {
+.RULA-blog .item {
     position: relative;
     overflow: hidden;
     margin-bottom: 30px;
 }
-.bauen-blog .item:hover img {
+.RULA-blog .item:hover img {
     -webkit-filter: none;
     filter: none;
     -webkit-transform: scale(1.09, 1.09);
@@ -1701,15 +1701,15 @@ button.mfp-arrow {
     -ms-transition: all 1s ease;
     transition: all 1s ease;
 }
-.bauen-blog .item:hover .con {
+.RULA-blog .item:hover .con {
     bottom: 0;
 }
-.bauen-blog .item img {
+.RULA-blog .item img {
     -webkit-transition: all .5s;
     transition: all .5s;
     -webkit-filter: brightness(100%);
 }
-.bauen-blog .item .con {
+.RULA-blog .item .con {
     margin: -120px 20px 75px;
     padding: 15px 15px 25px 15px;
     background-color: #323232 !important;
@@ -1721,27 +1721,27 @@ button.mfp-arrow {
     bottom: -55px;
     position: relative;
 }
-.bauen-blog .item .con .category {
+.RULA-blog .item .con .category {
     font-size: 12px;
     font-weight: 400;
     margin-bottom: 0;
     letter-spacing: 1px;
 }
-.bauen-blog .item .con .category a {
+.RULA-blog .item .con .category a {
     margin-right: 5px;
     position: relative;
 }
-.bauen-blog .item .con .category a:hover {
+.RULA-blog .item .con .category a:hover {
     color: #b19777;
 }
-.bauen-blog .item .con .category a:last-child {
+.RULA-blog .item .con .category a:last-child {
     margin-right: 0;
 }
-.bauen-blog .item .con .category a:last-child:after {
+.RULA-blog .item .con .category a:last-child:after {
     display: none;
 }
-.bauen-blog .item .con h5,
-.bauen-blog .item .con h5 a {
+.RULA-blog .item .con h5,
+.RULA-blog .item .con h5 a {
     color: #b19777;
     font-size: 25px;
     font-family: 'Oswald', sans-serif;
@@ -1749,29 +1749,29 @@ button.mfp-arrow {
     margin-bottom: 0px;
     letter-spacing: 1px;
 }
-.bauen-blog .item .con h5:hover,
-.bauen-blog .item .con h5 a:hover {
+.RULA-blog .item .con h5:hover,
+.RULA-blog .item .con h5 a:hover {
     color: #b19777;
 }
-.bauen-blog .item .con p {
+.RULA-blog .item .con p {
     color: #fff;
     font-size: 17px;
 }
-.bauen-blog .item .con i {
+.RULA-blog .item .con i {
     color: #fff;
     font-size: 20px;
 }
 /* pagination */
-.bauen-pagination-wrap {
+.RULA-pagination-wrap {
     padding: 0;
     margin: 0;
     text-align: center;
 }
-.bauen-pagination-wrap li {
+.RULA-pagination-wrap li {
     display: inline-block;
     margin: 0 5px;
 }
-.bauen-pagination-wrap li a {
+.RULA-pagination-wrap li a {
     background: transparent;
     display: inline-block;
     width: 40px;
@@ -1785,23 +1785,23 @@ button.mfp-arrow {
     font-size: 13px;
     border-radius: 100%;
 }
-.bauen-pagination-wrap li a i {
+.RULA-pagination-wrap li a i {
     font-size: 11px;
 }
-.bauen-pagination-wrap li a:hover {
+.RULA-pagination-wrap li a:hover {
     opacity: 1;
     text-decoration: none;
     background: transparent;
     border: 1px solid #b19777;
     color: #b19777;
 }
-.bauen-pagination-wrap li a.active {
+.RULA-pagination-wrap li a.active {
     background-color: transparent;
     border: 1px solid #b19777;
     color: #b19777;
 }
 @media screen and (max-width: 768px) {
-    .bauen-pagination-wrap {
+    .RULA-pagination-wrap {
         padding: 0;
         margin: 0;
         text-align: center;
@@ -1810,46 +1810,46 @@ button.mfp-arrow {
 
 
 /* ======= Post style ======= */
-.bauen-post-section {
+.RULA-post-section {
     padding-top: 120px;
 }
-.bauen-comment-section {
+.RULA-comment-section {
     padding-top: 60px;
     margin-bottom: 60px;
 }
-.bauen-comment-section h3 {
+.RULA-comment-section h3 {
     font-size: 16px;
     color: #b19777;
     font-family: 'Didact Gothic', sans-serif;
     font-weight: 400;
 }
-.bauen-comment-section h3 span {
+.RULA-comment-section h3 span {
     font-size: 12px;
     color: #999;
     font-weight: 400;
     margin-left: 15px;
 }
-.bauen-post-caption h1 {
+.RULA-post-caption h1 {
     margin-bottom: 20px;
     font-size: 40px;
     text-transform: uppercase;
 }
-.bauen-post-comment-wrap {
+.RULA-post-comment-wrap {
     display: flex;
     margin-bottom: 60px;
 }
-.bauen-user-comment {
+.RULA-user-comment {
     margin-right: 30px;
     flex: 0 0 auto;
 }
-.bauen-user-comment img {
+.RULA-user-comment img {
     border-radius: 100%;
     width: 100px;
 }
-.bauen-user-content {
+.RULA-user-content {
     margin-right: 26px;
 }
-.bauen-repay {
+.RULA-repay {
     font-size: 14px;
     color: #b19777;
     margin: 0;
@@ -1858,7 +1858,7 @@ button.mfp-arrow {
 
 
 /* ======= Contact style ======= */
-#bauen-contactMap {
+#RULA-contactMap {
     width: 100%;
     height: 550px;
 }
@@ -2622,11 +2622,11 @@ button.mfp-arrow {
     .portfolio .filtering span {
         margin-bottom: 10px;
     }
-    .bauen-blog .item .con h5,
-    .bauen-blog .item .con h5 a {
+    .RULA-blog .item .con h5,
+    .RULA-blog .item .con h5 a {
         font-size: 20px;
     }
-    .bauen-comment-section h3 span {
+    .RULA-comment-section h3 span {
         margin-left: 0px;
     }
     .main-footer .sub-footer p.right {
