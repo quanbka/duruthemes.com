@@ -2659,3 +2659,8 @@ button.mfp-arrow {
         text-align: center;
     }
 }
+
+
+body > nav > div.logo-wrapper.valign > div > a > h2 {
+    display: none;
+}
