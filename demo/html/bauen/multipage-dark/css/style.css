@@ -2,7 +2,7 @@
 
  01. Google fonts
  02. Basics style
- 03. Selection style 
+ 03. Selection style
  04. Owl-Theme custom style
  05. Section style
  06. Navbar style
@@ -11,7 +11,7 @@
  09. Slider Left Panel style
  10. Page Banner Header style
  11. Content Lines style
- 12. About style 
+ 12. About style
  13. Team style
  14. Services style
  15. Projects style
@@ -30,7 +30,7 @@
  28. Pricing plan style
  29. Error Page - 404 style
  30. Responsive (Media Query)
- 
+
 ----------------------------------------------------------------------------------- */
 
 
@@ -462,7 +462,7 @@ input[type="checkbox"] {
     font-size: 12px;
     color: #999;
     font-weight: 400;
-    letter-spacing: 4px;
+    letter-spacing: 1px;
     display: block;
     margin-top: 5px;
     line-height: 1.5em;
@@ -1368,7 +1368,7 @@ input[type="checkbox"] {
   .projects-prev-next {
     text-align: center;
   }
-    
+
   .projects-prev-next-left {
         margin-bottom: 10px;
     }
