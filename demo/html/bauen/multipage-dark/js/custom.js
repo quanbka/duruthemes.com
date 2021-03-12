@@ -160,7 +160,7 @@ $(function() {
         }
     });
     
-    // Blog Home owlCarousel
+    // Blog Trang chủ owlCarousel
     $('.RULA-blog .owl-carousel').owlCarousel({
         loop: true
         , margin: 30
