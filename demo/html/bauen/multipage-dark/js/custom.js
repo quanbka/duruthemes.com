@@ -54,10 +54,10 @@ $(function() {
             logo = $(".navbar .logo> img");
         if(bodyScroll > 100){
             navbar.addClass("nav-scroll");
-            logo.attr('src', 'img/logo.png');
+            logo.attr('src', 'https://rula.vn/media/banner/logo_logo.png');
         }else{
             navbar.removeClass("nav-scroll");
-            logo.attr('src', 'img/logo.png');
+            logo.attr('src', 'https://rula.vn/media/banner/logo_logo.png');
         }
     });
     
